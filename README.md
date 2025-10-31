@@ -48,7 +48,7 @@ Mamy dwie encje: **Order** i **OrderItem**.
 ### Demo w main
 
 ```bash
-python models.py
+python main.py
 ```
 
 Wyświetli przykładowe obliczenia:
